@@ -4,4 +4,4 @@ Eodomius is an instant-chat build with microservices arch.
 
 ## Structure of project
 
- ![STRUCTURE](https://github.com/Eodomius/.github/blob/df2911d900287291926e70a3bb45244b2db8caab/profile/Untitled_Diagram.drawio_2.png)
+![STRUCTURE](https://user-images.githubusercontent.com/59796136/159773247-7f333896-e5b5-41f5-8944-9b0286972ddb.png)
